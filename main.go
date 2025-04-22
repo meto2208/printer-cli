@@ -16,7 +16,7 @@ func main() {
 				fmt.Println("please provide an argument.")
 				return
 			}
-			fmt.Println(" Printer says: ", args[0])
+			fmt.Println("Printer says: ", args[0])
 		},
 	}
 
