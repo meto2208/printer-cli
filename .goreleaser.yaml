@@ -29,5 +29,5 @@ brews:
       bin.install "printer"
     repository:
       owner: meto2208
-      name: printer
+      name: printer-cli
       branch: main
