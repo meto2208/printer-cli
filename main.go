@@ -13,7 +13,7 @@ func main() {
 		Short: "printer - simple CLI that prints the first argument",
 		Run: func(cmd *cobra.Command, args []string) {
 			if len(args) < 1 {
-				fmt.Println("please provide an argument. s")
+				fmt.Println("please provide an argument. sdasd")
 				return
 			}
 			fmt.Println("Printer says: ", args[0])

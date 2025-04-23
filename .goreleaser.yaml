@@ -27,12 +27,7 @@ brews:
     license: "MIT"
     install: |
       bin.install "printer"
-    # Optional: Dependencies for your CLI
-    # dependencies:
-    #   - "some-dependency"
-    # conflicts:
-    #   - "another-printer"
     repository:
       owner: meto2208
-      name: homebrew-printer
+      name: printer
       branch: main
