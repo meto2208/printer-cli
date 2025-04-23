@@ -22,7 +22,7 @@ snapshot:
 
 brews:
   - name: printer
-    homepage: "https://github.com/meto2208/printer" 
+    homepage: "https://github.com/meto2208/printer-cli" 
     description: "A delightful CLI for printing things"
     license: "MIT"
     install: |
